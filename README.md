@@ -12,4 +12,4 @@ The workbook starts from a source-style table and transforms it into a cleaner w
 ## Output
 The cleaned sheet supports formula-based analysis of each artist’s best adjusted-gross tour using Excel lookup functions.
 The workbook uses combinations of `INDEX`, `MATCH`, and `MAXIFS` to retrieve the highest adjusted-gross record for the selected artist.
-<img width="1321" height="378" alt="image" src="https://github.com/user-attachments/assets/f67c1a12-99e0-4566-b1c4-18d26463e24c" />
+</>
